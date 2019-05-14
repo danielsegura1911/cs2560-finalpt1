@@ -1,0 +1,6 @@
+﻿  Main.cpp
+c:\users\dell blue\source\repos\gameincalss\gameincalss\main.cpp(139): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\dell blue\source\repos\gameincalss\gameincalss\main.cpp(330): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dell blue\source\repos\gameincalss\gameincalss\main.cpp(342): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dell blue\source\repos\gameincalss\gameincalss\main.cpp(347): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  GameInCalss.vcxproj -> C:\Users\Dell Blue\source\repos\GameInCalss\Debug\GameInCalss.exe
